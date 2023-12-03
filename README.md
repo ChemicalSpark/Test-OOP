@@ -1,1 +1,1 @@
-Dibuat untuk tes LSP SMK
+Dibuat untuk tes LSP
